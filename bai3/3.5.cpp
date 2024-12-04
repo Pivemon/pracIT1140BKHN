@@ -1,3 +1,4 @@
+//Ai đọc được dòng này thì mẹ m béo vl
 #include <stdio.h>
 int main() {
     double toan, ly, hoa, sum, avg;
